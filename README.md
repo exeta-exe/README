@@ -8,9 +8,9 @@ Frontend & Backend Developer
 
 ## Social Medias
 
-[Twitter](https://twitter.com/NobazH)
-[Instagram](instagram.com/exeta.exe)
-[Discord](https://discord.com/users/396420472595808263)
+* [Twitter](https://twitter.com/NobazH)
+* [Instagram](instagram.com/exeta.exe)
+* [Discord](https://discord.com/users/396420472595808263)
 
 ## Other Stuff
 
